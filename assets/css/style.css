@@ -143,13 +143,13 @@ body{
 }
 .about-txt h3 {
     font-size:18px;
-    color: #3c4258;
+    color: var(--color-dark);
     text-transform: initial;
     line-height: 1.8;
 }
 .about-txt p {
     font-size: 16px;
-    color: #999fb3;
+    color: var(--color-dark-neutral);
     padding: 35px 0 43px;
     border-bottom: 1px solid #999fb3;
 }
@@ -157,7 +157,7 @@ body{
     margin: 35px 0;
 }
 .about-add-info h3 {
-    color: #636a82;
+    color: var(--color-dark-neutral);
     font-size: 16px;
     text-transform: capitalize;
 }
